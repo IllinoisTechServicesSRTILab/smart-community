@@ -1,2 +1,2 @@
-# smart-community-website
-website source code for the smart community project website
+# smart-community
+code and resources of the website and data analysis projects for the smart community project
